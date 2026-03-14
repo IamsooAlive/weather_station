@@ -131,3 +131,5 @@ Log & Status:
 ```
 No additional software or libraries are needed on your computer—just use the Arduino Serial Monitor or any serial terminal.
 
+This project is based on an existing weather station design and was implemented for learning purposes with modifications.
+
